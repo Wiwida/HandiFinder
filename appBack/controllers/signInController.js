@@ -1,4 +1,4 @@
-const {User, Role} = require('../models');
+// const {User, Role} = require('../models');
 // Cryptage du mdp 
 const bcrypt = require('bcrypt');
 // Outil qui nous aide dans la gestion en back des email (double validation front et back)
