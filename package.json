@@ -56,9 +56,19 @@
     "webpack-merge": "^5.7.3"
   },
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "core-js": "^3.9.1",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "email-validator": "^2.0.4",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "multer": "^1.4.3",
+    "nodemon": "^2.0.13",
+    "pg": "^8.7.1",
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "sequelize": "^6.6.5"
   }
 }
